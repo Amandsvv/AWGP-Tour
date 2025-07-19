@@ -89,4 +89,8 @@ body {
   #title {
     font-size: 2rem;
   }
+
+  .container {
+  padding: 10px;
+}
 }
