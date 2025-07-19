@@ -1,0 +1,153 @@
+{
+  "yagya-shala": {
+    "title": "Yagya Shala",
+    "images": [
+      "../images/yagya1.jpg",
+      "../images/yagya2.jpg",
+      "../images/yagya3.jpg",
+      "../images/yagya4.jpg"
+    ],
+    "description": {
+      "overview": "The Yagya Shala at Shantikunj is a sacred ceremonial space where the transformative power of Agnihotra (Yagya) is harnessed for spiritual elevation. Every day, thousands of devotees and sadhaks participate in the rituals that blend Vedic traditions with scientific spirituality.",
+      "spiritual_significance": "The Yagya performed here symbolizes the purification of the environment and the inner self. It is believed to burn away negativity and instill divine vibrations. Under the guidance of trained Acharyas, each mantra chanted resonates with cosmic energy, fostering peace, clarity, and universal harmony.",
+      "architecture": "Designed with traditional Vedic architectural principles, the Yagya Shala is an open-air pavilion with multiple havan kunds (sacrificial fire pits). The structure is aligned according to cosmic geometry, creating a spiritually charged environment. Intricate carvings, sacred yantras, and symbolic art adorn the pillars and altar.",
+      "community_impact": "Besides its spiritual significance, the Yagya Shala serves as a center for mass awareness. Themes like social reform, environmental consciousness, and moral upliftment are often woven into the rituals. Events like 24-Kundiya Yagya or 108-Kundiya Yagya invite participation from across India and abroad, uniting people for collective good."
+    }
+  },
+  "gayatri-mandir": {
+  "title": "Gayatri Mandir",
+  "images": [
+    "../images/gayatri1.jpg",
+    "../images/gayatri2.jpg",
+    "../images/gayatri3.jpg",
+    "../images/gayatri4.jpg",
+    "../images/gayatri5.jpg"
+  ],
+  "description": {
+    "overview": "The Gayatri Mandir stands as the spiritual heart of Shantikunj, dedicated to Goddess Gayatri — the embodiment of divine wisdom, purity, and universal light. This sacred shrine attracts devotees from across the world who come to seek blessings, perform sadhana, and immerse themselves in the tranquil vibrations of the mandir.",
+    "spiritual_significance": "Gayatri Mandir is more than a place of worship — it’s a center for spiritual awakening. The continuous chanting of the Gayatri Mantra and performance of rituals like Gayatri Yagya help awaken the inner self, purify the mind, and inspire a life of righteousness and discipline. The aura within the temple premises offers a deeply meditative experience.",
+    "architecture": "Built with white marble and adorned with divine carvings, the Gayatri Mandir blends traditional Hindu temple architecture with spiritual symbolism. The sanctum sanctorum houses the idol of Goddess Gayatri with five faces symbolizing the five pranas. The walls feature inscriptions of mantras, and the temple is oriented to harness the maximum cosmic energy at dawn and dusk.",
+    "community_impact": "The Mandir serves as a central hub for spiritual education, prayer gatherings, and large-scale events like the Gayatri Mahayagya. Visitors often participate in daily aarti, group meditation, and mantra japa. The teachings and activities conducted here inspire thousands to lead lives grounded in ethics, service, and divine thought."
+  }
+}
+,
+  "swadhyay-hall": {
+  "title": "Swadhyay Hall",
+  "images": [
+    "../images/swadhyay1.jpg",
+    "../images/swadhyay2.jpg",
+    "../images/swadhyay3.jpg",
+    "../images/swadhyay4.jpg",
+    "../images/swadhyay5.jpg"
+  ],
+  "description": {
+    "overview": "Swadhyay Hall is a serene and focused space within the campus of Shantikunj, designed to facilitate deep study, reflection, and scriptural contemplation. The word 'Swadhyay' means 'self-study' and this hall reflects the core value of understanding spiritual knowledge through disciplined introspection and guided learning.",
+    "spiritual_significance": "This hall is dedicated to the ancient Indian tradition of self-study of scriptures and philosophical texts. It holds regular sessions where seekers engage in the study of Gayatri literature, the writings of Pt. Shriram Sharma Acharya, and other enlightening resources. The ambiance of the hall encourages silence, discipline, and an atmosphere of divine learning.",
+    "architecture": "The architecture of Swadhyay Hall is modern yet spiritually aligned. Wooden bookshelves line the walls, filled with scriptures, spiritual magazines, and rare manuscripts. Comfortable seating and appropriate lighting make it conducive for long reading or listening sessions. Inspirational quotes and portraits of saints and thinkers add depth to the aesthetic environment.",
+    "community_impact": "Swadhyay Hall has become a learning center for thousands of students, visitors, and aspirants who wish to deepen their understanding of Indian culture and spirituality. It serves as a platform for workshops, satsangs, and educational sessions. The environment promotes disciplined thinking, clarity of thought, and holistic development through knowledge sharing and contemplation."
+  }
+}
+,
+  "annapurna": {
+  "title": "Annapurna",
+  "images": [
+    "../images/annapurna1.jpg",
+    "../images/annapurna2.jpg",
+    "../images/annapurna3.jpg",
+    "../images/annapurna4.jpg",
+    "../images/annapurna5.jpg"
+  ],
+  "description": {
+    "overview": "Annapurna, the divine kitchen of Shantikunj, serves as the heart of nourishment and selfless service. Named after the Hindu goddess of food and nourishment, this vast kitchen prepares meals for thousands of devotees, students, volunteers, and visitors every day. It stands as a testament to the principle of 'Nar Seva Narayan Seva'—serving humanity is serving God.",
+    "spiritual_significance": "Food at Annapurna is not just a meal, but a sacred offering. Each dish is prepared with spiritual discipline and purity, often accompanied by mantra chanting. The cooks and volunteers believe in 'Yagya Bhojan'—food prepared and served as a divine ritual. The kitchen also ensures that food is sattvic (pure), vegetarian, and aligned with Ayurvedic guidelines, enhancing physical and mental well-being.",
+    "architecture": "The Annapurna kitchen is a large, well-ventilated structure with separate zones for preparation, cooking, storage, and cleaning. It is equipped with traditional and modern tools, from big chulhas (clay stoves) to automated machines for large-scale preparation. Hygiene is strictly maintained, and waste is minimized through eco-friendly practices.",
+    "community_impact": "Thousands are fed daily at Annapurna, including those attending events, camps, and training programs. It promotes the spirit of collective work, humility, and service. The kitchen also inspires other institutions by demonstrating efficient large-scale food preparation with spiritual consciousness. Annapurna not only nourishes the body but uplifts the soul through the power of sanctified food."
+  }
+}
+,
+  "vatika": {
+  "title": "Vatika (Herbal Garden)",
+  "images": [
+    "../images/vatika1.jpg",
+    "../images/vatika2.jpg",
+    "../images/vatika3.jpg",
+    "../images/vatika4.jpg",
+    "../images/vatika5.jpg"
+  ],
+  "description": {
+    "overview": "The Vatika, or Herbal Garden, at Shantikunj is a sanctuary of medicinal plants and ecological wisdom. It was established to preserve India's ancient botanical knowledge and promote natural healing. Home to hundreds of Ayurvedic herbs, shrubs, and trees, the Vatika offers a serene environment that blends spirituality, nature, and health. Visitors experience deep calm and rejuvenation as they walk through the tranquil paths surrounded by greenery and fragrance.",
+    "spiritual_significance": "In the Indian tradition, plants are considered sacred and are often associated with deities and healing energies. The Vatika embodies this belief by integrating plant worship, Vedic chanting, and eco-spiritual practices. Each plant is labeled with its Sanskrit and botanical names, along with its Ayurvedic uses. Devotees often offer prayers to sacred plants like Tulsi, Neem, and Ashwagandha, seeing them as manifestations of divine healing forces.",
+    "architecture": "Designed as a circular garden with interconnected paths, the Vatika features themed zones such as the ‘Tridosha Healing Zone’, ‘Rishi Van’, and ‘Aromatic Plant Corner’. It uses natural landscaping techniques with stone pathways, bamboo fences, clay labels, and eco-friendly irrigation systems. Information boards, sitting areas, and shaded gazebos allow visitors to rest and reflect in harmony with nature.",
+    "community_impact": "The Vatika educates thousands of visitors annually about the benefits of Ayurvedic plants and sustainable living. It is used in naturopathy training sessions and herbal remedy demonstrations. Students, researchers, and devotees collect seeds and samples for further learning. By encouraging the use of indigenous plants, the Vatika plays a vital role in reviving traditional health systems and fostering environmental consciousness in daily life."
+  }
+}
+,
+  "founding-year": {
+  "title": "Founding Year of Shantikunj",
+  "images": [
+    "../images/founding1.jpg",
+    "../images/founding2.jpg",
+    "../images/founding3.jpg",
+    "../images/founding4.jpg",
+    "../images/founding5.jpg"
+  ],
+  "description": {
+    "overview": "Shantikunj, the spiritual and cultural headquarters of the All World Gayatri Pariwar, was established in 1971 by Yugrishi Pt. Shriram Sharma Acharya and Vandaniya Mata Bhagwati Devi Sharma. Nestled at the foothills of the Himalayas in Haridwar, the founding of Shantikunj marked the beginning of a mission dedicated to spiritual renaissance, moral upliftment, and global transformation. The campus was originally a barren patch of land, transformed into a vibrant spiritual hub through the unwavering vision, dedication, and efforts of Acharyaji and Mataji.",
+    "spiritual_significance": "The year 1971 is not only a milestone in the physical establishment of Shantikunj but also the spiritual inception of Yug Nirman Yojana—a plan to awaken divinity in mankind and create heaven on earth. It was divinely guided through inner revelation and sadhana, aligning cosmic energies with human efforts. From the day of its founding, Shantikunj became a magnet for seekers from across India and the world, drawn by its powerful vibrations, divine aura, and noble mission.",
+    "architecture": "Initially consisting of a handful of huts and thatched roofs, Shantikunj was developed brick-by-brick by dedicated volunteers and sadhaks. The layout was organically planned around sacred principles, including Vastu Shastra and environmental harmony. The central features—Gayatri Mata Temple, Yagya Shala, Akhand Deep, and Tapobhumi—were all constructed in the early years after its founding, becoming key symbols of the Gayatri movement’s identity and spiritual practice.",
+    "community_impact": "Since 1971, Shantikunj has impacted millions through its training camps, publications, spiritual literature, and community development programs. Its founding year marked a turning point in modern spiritual history in India. The legacy continues as Shantikunj remains a beacon of inspiration for youth, spiritual seekers, and social reformers, carrying forward the timeless ideals of Vedic wisdom, scientific spirituality, and social responsibility. Each anniversary is celebrated with grand yagya rituals, commemorations, and renewed vows of service."
+  }
+}
+,
+  "mission-expansion": {
+  "title": "Mission Expansion (युग निर्माण मिशन का विस्तार)",
+  "images": [
+    "../images/expansion1.jpg",
+    "../images/expansion2.jpg",
+    "../images/expansion3.jpg",
+    "../images/expansion4.jpg",
+    "../images/expansion5.jpg"
+  ],
+  "description": {
+    "overview": "The expansion of the Yug Nirman Mission began in earnest during the 1970s and gained immense momentum after the establishment of Shantikunj. This movement, spearheaded by Yugrishi Pt. Shriram Sharma Acharya, aimed to uplift society spiritually, morally, and intellectually. The core philosophy was to awaken divinity in human beings and bring heaven to earth through collective character building and national awakening. Over the years, the mission expanded its network across India and the globe, spreading the messages of Gayatri, Yagya, and self-transformation.",
+    "spiritual_significance": "The expansion wasn't just geographical—it represented a divine vision of establishing a golden culture based on Vedic principles. Every new branch, center, or sadhana kendra became a lighthouse of dharma and spiritual evolution. The spiritual significance lay in training individuals to live disciplined, value-based lives, promoting inner purification and social service. The message of 'हम बदलेंगे, युग बदलेगा' (We shall transform, and so shall the era) reached millions, igniting a spiritual revolution.",
+    "architecture": "As the mission expanded, architectural centers known as 'Shaktipeeths' or 'Prajnapeeths' were established in cities, towns, and rural areas. These centers reflect traditional Indian designs, promoting eco-friendly practices and spiritual architecture. Each site includes a Yagya Mandap, Gayatri Temple, reading halls, and training rooms, forming the foundation for regular discourses, sadhana camps, and community activities. Architectural replication of Shantikunj in these centers unified the visual and spiritual identity of the movement.",
+    "community_impact": "The mission’s expansion has led to over 5000 Shaktipeeths worldwide and millions of active volunteers. It has revolutionized rural development, women's empowerment, youth training, education reform, and environmental activism. Through literacy campaigns, cleanliness drives, de-addiction efforts, and personality refinement camps, the mission brought real change at the grassroots level. Its publications reached remote corners, and its volunteers became local leaders of positive change—reflecting a truly people's movement grounded in divine ideals."
+  }
+}
+,
+  "digital-era": {
+  "title": "Digital Era (डिजिटल युग की पहल)",
+  "images": [
+    "../images/digital1.jpg",
+    "../images/digital2.jpg",
+    "../images/digital3.jpg",
+    "../images/digital4.jpg",
+    "../images/digital5.jpg"
+  ],
+  "description": {
+    "overview": "The Digital Era marked a significant transformation in the way Gayatri Pariwar connected with the masses. Embracing technology, Shantikunj began integrating digital tools to expand its spiritual, educational, and reformative efforts across the globe. This transformation allowed the mission to reach not just devotees in India, but seekers around the world who could now access teachings, events, and literature online. This era began around the early 2000s and saw massive growth during and after the COVID-19 pandemic.",
+    "spiritual_significance": "By going digital, the mission ensured that the message of Gayatri and Yagya could transcend boundaries of time and space. Live streaming of Yagyas, online spiritual camps, e-satsangs, and virtual anusthans became accessible to every household. This digital shift enabled even those physically distant or limited by mobility to remain connected with the spiritual flow of the Gayatri family. This fulfilled the vision of 'संपर्क-संवर्धन-संवेदना' (connection, growth, and sensitivity) at a global level.",
+    "technology_initiatives": "Key initiatives in the digital domain include the launch of official websites like www.awgp.org, mobile applications such as 'Gayatri Mantra Jaap', online donation portals, and e-books. Massive digitization of Pt. Shriram Sharma Acharya’s 3200+ volumes of literature enabled global readers to access his works free of cost. Platforms like YouTube, Instagram, and Facebook became vehicles for spiritual discourse, motivation, and education—serving millions each month.",
+    "community_impact": "The digital expansion not only enhanced accessibility but also attracted youth and tech-savvy individuals. Online volunteering, virtual sadhana groups, digital training sessions, and global webinars helped sustain active participation. During lockdowns, thousands participated in online Yagyas, workshops, and chanting sessions. The mission’s message reached remote villages and international communities alike, thus amplifying its impact multifold and building a stronger, digitally united spiritual community."
+  }
+}
+,
+  "un-recognition": {
+  "title": "Unrecognition Phase (अवज्ञा और अनदेखी का दौर)",
+  "images": [
+    "../images/unrecognition1.jpg",
+    "../images/unrecognition2.jpg",
+    "../images/unrecognition3.jpg",
+    "../images/unrecognition4.jpg",
+    "../images/unrecognition5.jpg"
+  ],
+  "description": {
+    "overview": "The phase of unrecognition marks a crucial yet often overlooked chapter in the history of Gayatri Pariwar. During this period, the teachings of Yug Rishi Pt. Shriram Sharma Acharya were met with resistance, skepticism, and even ridicule. Despite his futuristic vision, many dismissed his philosophies as overly idealistic or impractical. This era spanned the early decades of his mission, particularly from the 1940s to the 1960s, where societal inertia and conservatism proved to be significant barriers to transformation.",
+    "spiritual_significance": "This period tested the spiritual resolve of Yugrishi and his closest disciples. The lack of recognition only deepened their commitment to tapobal (power of austerity), shraddha (faith), and sadhna (dedicated practice). The trials during this time were likened to the 'agni-pariksha' (test by fire) of a true seeker. In spiritual terms, such resistance is often seen as a necessary step before a movement can emerge stronger and more rooted in divine grace. It was during this time that many of his inner revelations and spiritual preparations took form.",
+    "social_challenges": "Acharyaji’s ideas such as women empowerment, eradication of dowry, caste harmony, and scientific spirituality were far ahead of their time. He was often labeled as rebellious or controversial by orthodox communities. Even the act of introducing Sanskrit slogans into everyday life was considered unorthodox. Books he wrote and reformative actions he took received little support initially, with many publishers refusing to print his works and leaders ignoring his calls for reform.",
+    "impact_on_future": "Although painful, the unrecognition period became the foundation of the movement’s strength. The teachings refined during this phase laid the groundwork for future expansion. Yugrishi often mentioned how this 'unseen' time was more important than the visible success that followed. It nurtured a dedicated inner circle, established the power of silent work (maun-sadhana), and sowed the seeds of resilience that would later flourish into a global movement of thought transformation, spirituality, and social upliftment."
+  }
+}
+
+}

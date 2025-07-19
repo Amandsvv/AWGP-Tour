@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Details Page</title>
+  <link rel="stylesheet" href="../css/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 id="title"></h1>
+    <div class="image-gallery" id="image-gallery"></div>
+    <div class="description">
+      <h2>Overview</h2>
+      <p id="overview"></p>
+
+      <h2>Spiritual Significance</h2>
+      <p id="spiritual_significance"></p>
+
+      <h2>Architecture</h2>
+      <p id="architecture"></p>
+
+      <h2>Community Impact</h2>
+      <p id="community_impact"></p>
+    </div>
+  </div>
+
+  <script>
+    const dataUrl = '../data/explore_details.json';
+    const slug = window.location.hash.substring(1);
+
+    async function loadDetails() {
+      try {
+        const res = await fetch(dataUrl);
+        const data = await res.json();
+        const details = data[slug];
+
+        if (!details) {
+          document.body.innerHTML = "<h2>Item not found</h2>";
+          return;
+        }
+
+        document.getElementById("title").textContent = details.title;
+
+        const gallery = document.getElementById("image-gallery");
+        details.images.forEach(src => {
+          const img = document.createElement("img");
+          img.src = src;
+          img.alt = details.title;
+          gallery.appendChild(img);
+        });
+
+        document.getElementById("overview").textContent = details.description.overview;
+        document.getElementById("spiritual_significance").textContent = details.description.spiritual_significance;
+        document.getElementById("architecture").textContent = details.description.architecture;
+        document.getElementById("community_impact").textContent = details.description.community_impact;
+
+      } catch (err) {
+        console.error("Failed to load details", err);
+        document.body.innerHTML = "<h2>Error loading details</h2>";
+      }
+    }
+
+    loadDetails();
+  </script>
+</body>
+</html>
